@@ -52,7 +52,7 @@ Flashat Community: Discuss your role as an HR member and any responsibilities yo
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=cpp,python"  alt=""/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Dart" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/Dart-original.svg" alt="Dart" width="40" height="40"/>
 </p>
 
 
@@ -60,7 +60,7 @@ Flashat Community: Discuss your role as an HR member and any responsibilities yo
 <div align='left'>
 
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![VisualStudiocode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit)
+![AndriodStudio](https://img.shields.io/badge/Andriod_Studio-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 </div>
 
