@@ -27,21 +27,23 @@ Skills Overview: Briefly list your key skills (Python, C++, Flutter, Dart, mobil
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Technical Skills</b>
 <br>
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Soft Skills</b>
-<br>
 IEEE Internship: Mention your role and any projects you worked on during the internship.
 180 Daraga Flutter Course: Detail your involvement in the course, what you’ve learned, and any projects completed.
-YLY (Youth Leading Youth) - Ministry of Youth and Sports: Highlight your role as an OR member and any contributions to the organization.
-Flashat Community: Discuss your role as an HR member and any responsibilities you manage.
-</br>
-<br>
 Skills Section
 Programming Languages: Python, C++, Dart
 Frameworks: Flutter
 Mobile Development: Android/iOS development using Flutter
 Tools: Git, Android Studio, CLion, Codeblocks, Pycharm
+</br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Soft Skills</b>
+<br>
+
+YLY (Youth Leading Youth) - Ministry of Youth and Sports: Highlight your role as an OR member and any contributions to the organization.
+Flashat Community: Discuss your role as an HR member and any responsibilities you manage.
+</br>
+<br>
+
 </br>
 
 <p align="center">
