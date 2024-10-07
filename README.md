@@ -52,7 +52,7 @@ Flashat Community: Discuss your role as an HR member and any responsibilities yo
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=cpp,python"  alt=""/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/Dart-original.svg" alt="Dart" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/dart-original.svg" alt="dart" width="40" height="40"/>
 </p>
 
 
