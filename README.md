@@ -48,13 +48,35 @@ Flashat Community: Discuss your role as an HR member and any responsibilities yo
 
 <p align="center">
 
-## 🛠 Programming Languages:
+- ## 🛠 Programming Languages:
+
+<img src="https://skillicons.dev/icons?i=cpp,python,dart"  alt=""/><br>
+- ## 🛠 Mobile App Development:
+
+![Object-oriented programming (OOP)](https://img.shields.io/badge/Object--oriented%20programming%20(OOP)-%2300C853.svg?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-%233DDC84.svg?style=for-the-badge)
+![Firebase authentication](https://img.shields.io/badge/Firebase%20authentication-%23FF6F00.svg?style=for-the-badge)
+![Software life cycle](https://img.shields.io/badge/Software%20life%20cycle-%23007ACC.svg?style=for-the-badge)
+![SOLID principles](https://img.shields.io/badge/SOLID%20principles-%239966FF.svg?style=for-the-badge)
+![Agile methodology](https://img.shields.io/badge/Agile%20methodology-%23E91E63.svg?style=for-the-badge)
+![Working with Trello](https://img.shields.io/badge/Working%20with%20Trello-%23FFC107.svg?style=for-the-badge)
+![Working with Adobe XD](https://img.shields.io/badge/Working%20with%20Adobe%20XD-%2300BCD4.svg?style=for-the-badge)
+![APIs](https://img.shields.io/badge/APIs-%23FF5722.svg?style=for-the-badge)
+![Working with Figma](https://img.shields.io/badge/Working%20with%20Figma-%239C27B0.svg?style=for-the-badge)
+![Data Structure](https://img.shields.io/badge/Data%20Structure-%23FFEB3B.svg?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-%234CAF50.svg?style=for-the-badge)
+
+<br/>    
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,postman" alt="" />
+    <br/>
+
+- ## 🛠 Tools & Utilities:
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,python" alt="C++ and Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/dart-original.svg" alt="dart" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="40" height="40"/>
 </p>
-
 
 - ## 🛠 Used Comilers and IDE:
 <div align='left'>
