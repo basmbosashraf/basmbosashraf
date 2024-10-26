@@ -17,8 +17,9 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me.. </b>
 
 <br>
-Introduction: Start with a short introduction that highlights your background as a student at the Faculty of Computers and Artificial Intelligence, Cairo University.
-Skills Overview: Briefly list your key skills (Python, C++, Flutter, Dart, mobile development) and your interest in programming and app development.
+Hello! I am a dedicated student at the Faculty of Computers and Artificial Intelligence at Cairo University, passionate about the world of technology and programming. My journey in the field has equipped me with strong skills in Python, C++, Flutter, and Dart, with a particular interest in mobile development. I thrive on creating innovative applications and continuously seek to enhance my knowledge and expertise in software engineering.
+
+
 
 </br>
 
@@ -27,20 +28,33 @@ Skills Overview: Briefly list your key skills (Python, C++, Flutter, Dart, mobil
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Technical Skills</b>
 <br>
-IEEE Internship: Mention your role and any projects you worked on during the internship.
-180 Daraga Flutter Course: Detail your involvement in the course, what you’ve learned, and any projects completed.
+
+IEEE Internship:
+During my internship at IEEE, I served as a Flutter developer, where I contributed to various projects focused on mobile application development. This experience allowed me to collaborate with a talented team, enhancing my coding skills and understanding of project workflows.
+
+Flutter Internship:
+As a Flutter intern, I gained hands-on experience in developing and maintaining mobile applications. I worked on optimizing app performance and implementing user-friendly interfaces, which deepened my understanding of Flutter's capabilities.
+
+180 Daraga Flutter Course:
+I completed the Flutter course at 180 Daraga, where I gained in-depth knowledge of the Flutter framework and Dart programming. Throughout the course, I worked on several projects that solidified my skills in building responsive and user-friendly mobile applications.
+
 Skills Section
+
 Programming Languages: Python, C++, Dart
 Frameworks: Flutter
 Mobile Development: Android/iOS development using Flutter
-Tools: Git, Android Studio, CLion, Codeblocks, Pycharm
+Tools: Git, Android Studio, CLion, Codeblocks, PyCharm
 </br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Soft Skills</b>
 <br>
 
-YLY (Youth Leading Youth) - Ministry of Youth and Sports: Highlight your role as an OR member and any contributions to the organization.
-Flashat Community: Discuss your role as an HR member and any responsibilities you manage.
+
+YLY (Youth Leading Youth) - Ministry of Youth and Sports:
+As an OR member at YLY, I play a vital role in organizing events and activities that foster youth engagement and development. My contributions include coordinating workshops, facilitating discussions, and ensuring smooth communication among team members. This experience has enhanced my teamwork, leadership, and organizational skills.
+
+Flashat Community:
+In my role as an HR member of the Flashat community, I manage various responsibilities related to recruitment and member engagement. I focus on creating a positive environment for collaboration, organizing team-building activities, and addressing member concerns. This position has strengthened my interpersonal skills and ability to work effectively within a team.
 </br>
 <br>
 
@@ -117,8 +131,9 @@ Flashat Community: Discuss your role as an HR member and any responsibilities yo
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"><b> My Social Media...</b>
 <br>
-
+https://www.facebook.com/profile.php?id=61566591592033&mibextid=ZbWKwL
 <br>
+https://www.linkedin.com/in/basmala-ashraf5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 📩 Let's Connect..! </b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
